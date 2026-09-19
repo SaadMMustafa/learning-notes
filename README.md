@@ -12,11 +12,14 @@ I'm documenting what I learn in public, in my own words, as I build toward a car
 learning-notes/
 ├── README.md
 └── javascript-fundamentals-codecademy/
+    └── Cheat Sheet
 ```
 
 - One folder per course, named after the course (kebab-case, no spaces).
 - One `.md` file per session/topic, numbered in the order I covered them (`01-`, `02-`, …), with a short descriptive slug after the number.
 - Files are short — a summary, not a transcript. Each one has: what the topic was, the core idea in my own words, and one thing I'd have gotten wrong before this session.
+- Each summary ends with a small "🔨 Practice Idea" section — a tiny project suggestion tied to that topic.
+- A `projects/` folder inside each course holds the actual built practice projects, done in a weekly batch. Each project folder links back to the summary file it came from.
 
 ## Index
 
