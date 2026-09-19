@@ -8,7 +8,7 @@ I'm documenting what I learn in public, as I build toward a career in programmin
 ```
 learning-notes/
 ├── README.md
-├── javascript-fundamentals-codecademy/
+├── Learn JavaScript: Fundamentals - CodeAcademy/
     └── Cheat-Sheet.md
 
 *(Updated every time a new course folder is added | Last Update: 19.9.2026)*
