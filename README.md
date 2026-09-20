@@ -9,9 +9,10 @@ I'm documenting what I learn in public, as I build toward a career in programmin
 learning-notes/
 ├── README.md
 ├── Learn JavaScript: Fundamentals - CodeAcademy/
-    └── Cheat-Sheet.md
-
-*(Updated every time a new course folder is added | Last Update: 19.9.2026)*
+│   └── Cheat-Sheet.md
+└── Learn JavaScript Functions and Scope - CodeAcademy/
+    └── Summary.md
+*(Updated every time a new course folder is added | Last Update: 20.9.2026)*
 ```
 
 - One folder per course, named with course provider.
